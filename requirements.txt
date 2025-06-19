@@ -1,0 +1,5 @@
+PyGithub
+openai
+python-dotenv
+PyYAML
+google-generativeai

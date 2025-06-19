@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+r1-venv/
+ENV/
+env/
+.venv/
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Release notes
+RELEASE_NOTES_*.md
+RELEASE_NOTES*.md
+
+# Logs
+*.log
