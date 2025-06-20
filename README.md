@@ -158,6 +158,7 @@ You want to process multiple repos at once, automate with a config file, and/or 
 ```
 release_notes/RELEASE_NOTES_github_org_repo_name_1_20240617_212300.md
 release_notes/RELEASE_NOTES_github_org_repo_name_2_20240617_212300.md
+release_notes/MASTER_RELEASE_NOTES_20240617_212301.md
 ```
 
 ---

@@ -25,6 +25,7 @@ env/
 # Release notes
 RELEASE_NOTES_*.md
 RELEASE_NOTES*.md
+MASTER_RELEASE_NOTES_*.md
 
 # Logs
 *.log
