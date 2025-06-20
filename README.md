@@ -2,7 +2,7 @@
 # AI Release Note Generator — Multi-Use Utility
 
 Generate clear, categorized release notes for one or more GitHub repositories using OpenAI’s LLMs.
-Easily automate your workflow and adapt the tool to your needs—single repo or multi-repo, simple commit lists or full PR support!
+Easily automate your workflow and adapt the tool to your needs—single repo or multi-repo, simple commit lists or full PR support.
 
 ---
 
@@ -19,7 +19,7 @@ Simply update the LLM call in necessary functions like  `get_release_notes` to y
 
 | Script      | Phase   | What It Does                                                               |
 | ----------- | ------- | -------------------------------------------------------------------------- |
-| `from_commits_release_notes.py`   | Phase 1 | Single repo, commit messages only (simple MVP)                             |
+| `from_commits_release_notes.py`   | Phase 1 | Single repo, **commit messages only** (basic use case)                             |
 | `from_prs_release_notes.py` | Phase 2 | Single repo, **commits + PRs** with deduplication and richer context       |
 | `multiple_repos_release_notes.py` | Phase 3 | **Multi-repo** support, YAML config, interactive/automated, combined notes |
 
