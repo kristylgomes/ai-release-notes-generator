@@ -10,7 +10,11 @@ Easily automate your workflow and adapt the tool to your needs—single repo or 
 
 This tool is designed to be model-agnostic — you can use it with OpenAI, Google Gemini, or swap in another LLM provider of your choice.
 
-Simply update the LLM call in necessary functions like  `get_release_notes` to your preferred API, adjust your .env and requirements.txt, and you’re ready to go!
+Simply update the LLM call in necessary functions like  `get_release_notes` to your preferred API, adjust your .env and requirements.txt, and you’re ready to go.
+
+The scripts by default use OpenAI, but 2 examples illustrating the use with Gemini & Ollama are included in this repo:
+* `from_commits_with_GeminiApiKey.py`
+* `from_commits_with_Ollama.py`
 
 ---
 
